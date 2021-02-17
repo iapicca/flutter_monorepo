@@ -2,12 +2,11 @@
 [![melos][]][melos - link]
 [![license: MIT][]][license: MIT - link]
 
-# dart_mono_repo
-
+# flutter_monorepo
 
 #### ABOUT 
 
-This is a template to easily set up your mono repo, with CI and code coverage built-in
+This is a template to easily set up your mono repo, with CI and code coverage built-in&nbsp
 with [melos](https://github.com/invertase/melos) and [flutter-action](https://github.com/subosito/flutter-action)
 
 #### SET UP
@@ -16,8 +15,9 @@ with [melos](https://github.com/invertase/melos) and [flutter-action](https://gi
 - set up codecoverage: 
     - sign up to codecov [here](https://about.codecov.io/sign-up/)
     - add this repo [here](https://codecov.io/gh)
-    - edit this `README.md` uncomment the badge `[![codecov][]][codecov - link] `at the top
-      and edit and uncomment the markdown `[codecov]` & `[codecov - link]` at the bottom 
+    - edit this `README.md` uncomment the badge `[![codecov][]][codecov - link] `at the top and edit and 
+    
+    uncomment the markdown `[codecov]` & `[codecov - link]` at the bottom 
 
 #### TRY IT
 
@@ -32,7 +32,7 @@ with [melos](https://github.com/invertase/melos) and [flutter-action](https://gi
 
 ***ALL DONE !***
     
-    Go ahead and edit the `README.md` file
+Go ahead and edit the `README.md` file
 
 
 [license: MIT]: https://img.shields.io/badge/license-MIT-blue.svg
